@@ -1,0 +1,28 @@
+/*seletor*/
+*{
+margin: 0;
+}
+header{
+    height: 100px;
+    width: 100%;
+    background-color: #00ff00;
+
+
+}
+
+ul{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+a{
+    padding: 20px;
+    background-color: #00ff00;
+    list-style-type: none;
+}
+li{
+    list-style-type: upper-roman;
+}
+a:hover{
+    color: ;
+}
